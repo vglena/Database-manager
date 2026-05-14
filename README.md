@@ -1,4 +1,4 @@
-# CRM Tasaciones AI
+# Database manager
 
 A web application that combines real estate appraisal case management (expedientes) with an AI-powered chat assistant connected to an n8n workflow agent.
 
